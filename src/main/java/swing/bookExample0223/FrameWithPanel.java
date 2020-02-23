@@ -2,10 +2,7 @@
  * @author TK
  * @since 2020/2/23 22:47
  */
-package swing.bookExample;
-
-import jdk.xml.internal.JdkXmlFeatures;
-import sun.security.krb5.internal.PAData;
+package swing.bookExample0223;
 
 import javax.swing.*;
 import java.awt.*;

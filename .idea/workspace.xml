@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5b0a05d-af6c-45cc-bcba-0ab19debb855" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/BorderLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/CardLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/FlowLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/FrameWithPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/GirdLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JFamexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JFrameDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/TwoStatesButtonDemo2.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5b0a05d-af6c-45cc-bcba-0ab19debb855" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +20,7 @@
   </component>
   <component name="ProjectId" id="1Y1zbiTJWWBAxUdqRe14He4lwqc" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>

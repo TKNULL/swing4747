@@ -2,13 +2,9 @@
  * @author TK
  * @since 2020/2/23 22:42
  */
-package swing.bookExample;
-
-import com.sun.javafx.robot.impl.FXRobotHelper.FXRobotInputAccessor;
-import swing.JButtonExample;
+package swing.bookExample0223;
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
 
 public class JFrameDemo2 {

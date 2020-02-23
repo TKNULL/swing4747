@@ -2,9 +2,7 @@
  * @author TK
  * @since 2020/2/23 23:33
  */
-package swing.bookExample;
-
-import org.omg.CORBA.FREE_MEM;
+package swing.bookExample0223;
 
 import javax.swing.*;
 import java.awt.*;
