@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5b0a05d-af6c-45cc-bcba-0ab19debb855" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/swingassembly/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swing/swingassembly/debugJComboBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/BorderLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/CardLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/FlowLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/FrameWithPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/GirdLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JFamexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/JFrameDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swing/bookExample/TwoStatesButtonDemo2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
